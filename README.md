@@ -1,2 +1,6 @@
-# K Tracker Server EOL
-The K Tracker server is now EOL. This static page is to redirect ALL traffic to the server to a static file to tell the user to update.
+# K Tracker
+K Tracker has just reached it's end of life. Please refer to <a href="https://meowtechopensource.com">Meow Tech Open Source's Website</a> for more information.
+
+Thank you for supporting us and we will see you in Project Arturia soon.
+
+<a href="https://arturia.meowtechopensource.com">Project Arturia</a>
